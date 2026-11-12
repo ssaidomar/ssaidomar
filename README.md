@@ -5,11 +5,11 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,60:0d1320,100:00ffc8&height=200&section=header&text=Sa%C3%AFd%20Omar&fontSize=64&fontColor=e8edf3&fontAlignY=36&desc=%2F%2F%20alternance%20%E2%80%94%20support%20informatique%20%26%20r%C3%A9seaux&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Saïd Omar — alternance support informatique et réseaux" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,60:0d1320,100:00ffc8&height=200&section=header&text=Sa%C3%AFd%20Omar&fontSize=64&fontColor=e8edf3&fontAlignY=36&desc=%2F%2F%20alternance%20%E2%80%94%20support%20informatique%20et%20r%C3%A9seaux&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Saïd Omar — alternance support informatique et réseaux" />
 </p>
 
 <p align="center">
-  <a href="https://www.said-omar.fr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=20&duration=2800&pause=900&color=00FFC8&center=true&vCenter=true&width=620&lines=%3E%20Technicien%20support%20informatique%20%26%20r%C3%A9seaux;%3E%204%20stages%2C%20dont%202%20chez%20SNCF%20R%C3%A9seau;%3E%20SUPINFO%20%C2%B7%20Bachelor%203e%20ann%C3%A9e;%3E%20Disponible%20imm%C3%A9diatement%20%C2%B7%20Paris" alt="Technicien support informatique et réseaux" /></a>
+  <a href="https://www.said-omar.fr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=20&duration=2800&pause=900&color=00FFC8&center=true&vCenter=true&width=620&lines=%3E%20Technicien%20support%20informatique%20et%20r%C3%A9seaux;%3E%204%20stages%2C%20dont%202%20chez%20SNCF%20R%C3%A9seau;%3E%20SUPINFO%20%C2%B7%20Bachelor%203e%20ann%C3%A9e;%3E%20Disponible%20imm%C3%A9diatement%20%C2%B7%20Paris" alt="Technicien support informatique et réseaux" /></a>
 </p>
 
 <p align="center">
